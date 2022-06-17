@@ -1,0 +1,14 @@
+[
+  {
+    "package": "BGGM",
+    "oncran": true
+  },
+  {
+    "package": "GGMncv",
+    "oncran": true
+  },
+  {
+    "package": "vICC",
+    "oncran": true
+  }
+]
