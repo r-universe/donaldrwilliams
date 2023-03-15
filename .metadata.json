@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "GGMncv",
+    "package": "vICC",
     "oncran": true
   },
   {
-    "package": "vICC",
+    "package": "GGMncv",
     "oncran": true
   }
 ]

@@ -8,13 +8,13 @@
 	url = https://github.com/donaldrwilliams/bggm
 	shallow = true
 	registered = true
-[submodule "GGMncv"]
-	path = GGMncv
-	url = https://github.com/donaldrwilliams/ggmncv
-	shallow = true
-	registered = true
 [submodule "vICC"]
 	path = vICC
 	url = https://github.com/donaldrwilliams/vicc
+	shallow = true
+	registered = true
+[submodule "GGMncv"]
+	path = GGMncv
+	url = https://github.com/donaldrwilliams/ggmncv
 	shallow = true
 	registered = true
