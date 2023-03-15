@@ -13,6 +13,16 @@
 	url = https://github.com/donaldrwilliams/ggmncv
 	shallow = true
 	registered = true
+[submodule "GGMnonreg"]
+	path = GGMnonreg
+	url = https://github.com/donaldrwilliams/ggmnonreg
+	shallow = true
+	registered = true
+[submodule "IRCcheck"]
+	path = IRCcheck
+	url = https://github.com/donaldrwilliams/irccheck
+	shallow = true
+	registered = true
 [submodule "vICC"]
 	path = vICC
 	url = https://github.com/donaldrwilliams/vicc

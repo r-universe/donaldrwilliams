@@ -8,6 +8,14 @@
     "oncran": true
   },
   {
+    "package": "GGMnonreg",
+    "oncran": true
+  },
+  {
+    "package": "IRCcheck",
+    "oncran": true
+  },
+  {
     "package": "vICC",
     "oncran": true
   }
