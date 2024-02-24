@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BGGM"]
+	path = BGGM
+	url = https://github.com/donaldrwilliams/bggm
 [submodule "GGMncv"]
 	path = GGMncv
 	url = https://github.com/donaldrwilliams/ggmncv
