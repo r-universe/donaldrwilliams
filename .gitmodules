@@ -5,15 +5,6 @@
 [submodule "BGGM"]
 	path = BGGM
 	url = https://github.com/donaldrwilliams/bggm
-[submodule "GGMncv"]
-	path = GGMncv
-	url = https://github.com/donaldrwilliams/ggmncv
-[submodule "GGMnonreg"]
-	path = GGMnonreg
-	url = https://github.com/donaldrwilliams/ggmnonreg
-[submodule "IRCcheck"]
-	path = IRCcheck
-	url = https://github.com/donaldrwilliams/irccheck
 [submodule "vICC"]
 	path = vICC
 	url = https://github.com/donaldrwilliams/vicc
