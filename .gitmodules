@@ -5,6 +5,3 @@
 [submodule "BGGM"]
 	path = BGGM
 	url = https://github.com/donaldrwilliams/bggm
-[submodule "vICC"]
-	path = vICC
-	url = https://github.com/donaldrwilliams/vicc
